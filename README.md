@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shouryadewansh/)
 [![Email](https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shouryadewansh@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Photography-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shourya_dewansh/)
+[![Instagram](https://img.shields.io/badge/Instagram-Photography-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bywhitelight/)
 
 </div>
 
@@ -16,17 +16,18 @@
 
 - 🎓 Student at **Northeastern University** in Boston, pursuing a combined major in **Computer Science and Business Administration**
 - 📈 Business concentrations in **Marketing** and **Social Innovation and Entrepreneurship**
-- 🚀 I'm drawn to startups, new ventures, and innovative ideas
+- 🚀 I'm drawn to startups, new ventures, and innovative ideas, and to the work of turning an idea into something people actually use
 - 🎨 I'm most interested in the side of tech where **technical skill meets strategy, branding, and user insight**
-- 🌍 I care about building things that create real impact for communities
+- 🌍 I care about building things that create real impact for communities, not just products
 
 ## 🚀 What I'm working on
 
-| Project | What it is |
+| Focus | What it is |
 |---|---|
-| **E[X]** | A student-run **prediction markets club** at Northeastern, built in collaboration with UChicago's Oracle Trading. It gives students hands-on experience with how markets aggregate information. → [e-x.club](https://e-x.club) |
-| **Closed Loop Partner Program** | A sustainability venture focused on recycling used tennis string |
-| **QUIC for Real-Time AI** | Network programming research on reducing token-stream stalls with **QUIC datagrams and lightweight redundancy** for real-time AI applications |
+| **Startup & venture evaluation** | Exploring what makes early-stage startups succeed and how founders and investors judge an idea, combining business thinking with data |
+| **Marketing & brand strategy** | Studying how brands tell stories and grow, and building a portfolio of campaign concepts and brand teardowns |
+| **Social innovation** | Exploring how entrepreneurial approaches can solve community and social problems, tied to my Social Innovation and Entrepreneurship concentration |
+| **By White Light** | A photography page where I practice visual storytelling and audience building → [@bywhitelight](https://www.instagram.com/bywhitelight/) |
 
 ## 🛠️ Skills & tools
 
@@ -50,7 +51,7 @@ I'm exploring roles and projects in **marketing, product, and early-stage startu
 - Marketing, branding, and growth
 - Social innovation and community-driven projects
 - Prediction markets and student-led initiatives
-- Collaborations and internships
+- Collaborations and co-ops
 
 ## 📫 Reach me
 
@@ -61,19 +62,3 @@ The fastest way is email or LinkedIn (links at the top). I'm always up for a con
 <div align="center">
 <sub>Built in Boston. Always learning.</sub>
 </div>
-
-
-<!--
-**ShouryaDewansh/ShouryaDewansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
