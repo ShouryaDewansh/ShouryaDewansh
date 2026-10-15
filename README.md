@@ -1,4 +1,4 @@
-## Hi im shourya and im chilling 
+## Hi im shourya and im chilling but serious also in life depends on the depth of your thinking abilities 
 
 
 <!--
