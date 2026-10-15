@@ -27,7 +27,7 @@
 | **Startup & venture evaluation** | Exploring what makes early-stage startups succeed and how founders and investors judge an idea, combining business thinking with data |
 | **Marketing & brand strategy** | Studying how brands tell stories and grow, and building a portfolio of campaign concepts and brand teardowns |
 | **Social innovation** | Exploring how entrepreneurial approaches can solve community and social problems, tied to my Social Innovation and Entrepreneurship concentration |
-| **By White Light** | A photography page where I practice visual storytelling and audience building → [@bywhitelight](https://www.instagram.com/bywhitelight/) |
+| **Photography** | A photography page where I practice visual storytelling and audience building → [@bywhitelight](https://www.instagram.com/bywhitelight/) |
 
 ## 🛠️ Skills & tools
 
